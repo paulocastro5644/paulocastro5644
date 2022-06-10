@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulocastro5644
-- 👀 I’m interested in Program Management
-- 🌱 I’m currently learning Coding, BI, PMI, Lean
+- 👀 I’m interested in Cost Accounting Standards and Program Management
+- 🌱 I’m currently learning FAR/DFAR/CAS, Coding, BI, PMI, Lean Manufacturing
 - 💞️ I’m looking to collaborate on with my Team
 - 📫 How to reach me email and MS Teams
 - 
